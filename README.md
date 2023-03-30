@@ -15,6 +15,6 @@ The following packages are required:
 Training
 ------------------------------------
 
-* prepare the dataset you want to do experiment
-* Directly run the train.ipynb file 
+* Prepare the dataset you want to do experiment
+* Directly run the '''train.ipynb''' file 
 
