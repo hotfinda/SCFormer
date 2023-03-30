@@ -1,5 +1,5 @@
 # SCFormer
-This is the implementation of SCFormer in paper"SCFORMER: INTEGRATING HYBRID FEATURES IN VISION TRANSFORMERS"
+This is the implementation of SCFormer in paper"SCFormer: Integrating hybrid Features in Vision Transformers"
 
 Getting started
 ------------------------------------
