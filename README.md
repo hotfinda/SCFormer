@@ -5,4 +5,4 @@ Training
 ------------------------------------
 '''python train.py'''
 
-lll
+<code>nano</code>
