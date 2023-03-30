@@ -16,5 +16,5 @@ Training
 ------------------------------------
 
 * Prepare the dataset you want to do experiment
-* Directly run the '''train.ipynb''' file 
+* Directly run the <code>train.ipynb</code> file 
 
